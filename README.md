@@ -22,6 +22,13 @@ I build practical software for real operational problems: business dashboards, i
 - Creating public case studies around private ERP/POS work without exposing production IP
 - Improving software architecture, documentation, testing, and product workflows
 
+## Selected public work
+
+- [nerdforge](https://github.com/KareemQabil/nerdforge) - Deterministic CLI for multi-agent software workflows, TDD loops, and developer automation
+- [nerd-pos](https://github.com/KareemQabil/nerd-pos) - Public POS and business workflow prototype focused on cashier flows, reporting, and Arabic-first UX
+- [nerdERPs](https://github.com/KareemQabil/nerdERPs) - Public ERP/POS showcase focused on business workflows, inventory, and operational dashboards
+- [AlbiruniEDU](https://github.com/KareemQabil/AlbiruniEDU) - Arabic-first educational AI platform exploring structured learning experiences
+- [KareemQabil.github.io](https://github.com/KareemQabil/KareemQabil.github.io) - Portfolio hub in progress
 ## Featured directions
 
 ### Developer tools
