@@ -29,7 +29,6 @@ I build practical software for real operational problems: business dashboards, i
 - [nerdERPs](https://github.com/KareemQabil/nerdERPs) - Public ERP/POS showcase focused on business workflows, inventory, and operational dashboards
 - [AlbiruniEDU](https://github.com/KareemQabil/AlbiruniEDU) - Arabic-first educational AI platform exploring structured learning experiences
 - [KareemQabil.github.io](https://github.com/KareemQabil/KareemQabil.github.io) - Portfolio hub in progress
-
 ## Featured directions
 
 ### Developer tools
