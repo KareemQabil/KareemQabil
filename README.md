@@ -28,7 +28,14 @@ I build practical software for real operational problems: business dashboards, i
 - [nerd-pos](https://github.com/KareemQabil/nerd-pos) - Public POS and business workflow prototype focused on cashier flows, reporting, and Arabic-first UX
 - [nerdERPs](https://github.com/KareemQabil/nerdERPs) - Public ERP/POS showcase focused on business workflows, inventory, and operational dashboards
 - [AlbiruniEDU](https://github.com/KareemQabil/AlbiruniEDU) - Arabic-first educational AI platform exploring structured learning experiences
-- [KareemQabil.github.io](https://github.com/KareemQabil/KareemQabil.github.io) - Portfolio hub in progress
+- [kerimqabil.me](https://kerimqabil.me) - Live portfolio surface with product showcases, screenshots, and public work notes
+
+## Public mini tools
+
+- [readme-claim-check](https://github.com/KareemQabil/readme-claim-check) - CLI for flagging risky README claims before they go public
+- [rtl-locale-audit](https://github.com/KareemQabil/rtl-locale-audit) - CLI for auditing Arabic and English locale files in RTL products
+- [route-surface-map](https://github.com/KareemQabil/route-surface-map) - CLI for mapping route surfaces in React and Next.js codebases
+
 ## Featured directions
 
 ### Developer tools
@@ -59,4 +66,4 @@ Some production and business repositories remain private for IP and operational 
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/kerimqabil/
-- Portfolio: Coming soon
+- Portfolio: https://kerimqabil.me
