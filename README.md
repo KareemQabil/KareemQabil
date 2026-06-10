@@ -6,6 +6,16 @@ Software Engineer building ERP/POS systems, developer tools, Arabic-first interf
 
 I build practical software for real operational problems: business dashboards, internal tools, reporting workflows, POS/ERP systems, automation products, and developer-assistance tools for junior programmers.
 
+![Profile map](assets/infographics/profile-map.svg)
+
+## Open first
+
+- [nerdpos-showcase](https://github.com/KareemQabil/nerdpos-showcase)
+- [freshflow-showcase](https://github.com/KareemQabil/freshflow-showcase)
+- [devmurshid-showcase](https://github.com/KareemQabil/devmurshid-showcase)
+
+![Showcase matrix](assets/infographics/showcase-matrix.svg)
+
 ## Featured showcases
 
 - [nerdpos-showcase](https://github.com/KareemQabil/nerdpos-showcase) - Real screenshot-based case study for cashier, payment, receipt, inventory, and compliance workflows.
@@ -14,6 +24,16 @@ I build practical software for real operational problems: business dashboards, i
 - [nerdprm-showcase](https://github.com/KareemQabil/nerdprm-showcase) - AI-assisted project and resource management direction with Arabic-first product framing.
 - [devmurshid-showcase](https://github.com/KareemQabil/devmurshid-showcase) - Public case study for a chat-first engineering workspace and CLI for structured delivery workflows.
 - [kerimqabil.me](https://kerimqabil.me) - Portfolio surface that ties the case studies together.
+
+## What Each Showcase Proves
+
+| Showcase | Proof signal | Why it matters |
+| --- | --- | --- |
+| `nerdpos-showcase` | Cashier, payment, receipt, inventory, compliance | Strongest proof of real ERP/POS workflow work |
+| `freshflow-showcase` | Orders, suppliers, purchasing, ERP operations | Shows broader operational business software scope |
+| `devmurshid-showcase` | CLI workflow, agent roles, safety controls | Shows serious developer-tooling direction |
+| `nerdhris-showcase` | Arabic-first HRIS foundation modules | Extends the brand into internal HR systems |
+| `nerdprm-showcase` | AI-assisted project workflow direction | Shows product-thinking around AI-native execution |
 
 ## What I build
 
@@ -50,6 +70,12 @@ I care about software that properly supports Arabic content, RTL layouts, local 
 - Showcase repos come first. They explain the product direction clearly and use real evidence where it is safe to publish.
 - Raw business code is not the center of the public brand. Private production systems stay private when IP or operations require it.
 - Public repos are meant to show engineering judgment, workflow depth, and product thinking, not just code volume.
+
+## Public Work Strategy
+
+- Keep private production systems private when IP or operations require it.
+- Turn the strongest product directions into public-safe showcase repos with real screenshots, workflow notes, and system maps.
+- Use the profile README and portfolio as the navigation layer that sends people to the strongest proof first.
 
 ## Tech stack
 

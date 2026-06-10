@@ -1,0 +1,50 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="32" fill="#081120"/>
+  <rect x="24" y="24" width="1232" height="672" rx="28" fill="url(#bg)"/>
+  <rect x="64" y="64" width="1152" height="110" rx="24" fill="#0E1A2D" stroke="#223453"/>
+  <text x="96" y="112" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Kareem Qabil</text>
+  <text x="96" y="148" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Software Engineer building ERP/POS systems, developer tools, Arabic-first interfaces, and automation products.</text>
+
+  <rect x="64" y="204" width="360" height="204" rx="24" fill="#0E1A2D" stroke="#223453"/>
+  <text x="92" y="244" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Core Brand Signals</text>
+  <text x="92" y="286" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">1. Real business systems</text>
+  <text x="92" y="322" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">2. ERP/POS workflow depth</text>
+  <text x="92" y="358" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">3. Arabic-first product thinking</text>
+  <text x="92" y="394" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">4. Developer tooling and automation</text>
+
+  <rect x="460" y="204" width="348" height="204" rx="24" fill="#0E1A2D" stroke="#223453"/>
+  <text x="488" y="244" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Open These First</text>
+  <text x="488" y="286" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">nerdpos-showcase</text>
+  <text x="488" y="320" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">Cashier, payment, receipt, inventory, compliance</text>
+  <text x="488" y="360" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">freshflow-showcase</text>
+  <text x="488" y="394" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">Orders, suppliers, purchasing, ERP operations</text>
+
+  <rect x="844" y="204" width="372" height="204" rx="24" fill="#0E1A2D" stroke="#223453"/>
+  <text x="872" y="244" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Secondary Proof</text>
+  <text x="872" y="286" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">devmurshid-showcase</text>
+  <text x="872" y="320" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">Agentic CLI workflow and engineering controls</text>
+  <text x="872" y="360" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">nerdhris-showcase / nerdprm-showcase</text>
+  <text x="872" y="394" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">HR systems and AI-assisted project workflows</text>
+
+  <rect x="64" y="444" width="1152" height="204" rx="24" fill="#0E1A2D" stroke="#223453"/>
+  <text x="92" y="484" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Public Work Model</text>
+  <rect x="92" y="514" width="260" height="96" rx="18" fill="#13233B"/>
+  <text x="122" y="554" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Private product systems</text>
+  <text x="122" y="586" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="18">ERP/POS, customer-specific workflows, operational logic</text>
+  <rect x="398" y="514" width="220" height="96" rx="18" fill="#13233B"/>
+  <text x="430" y="554" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Sanitize</text>
+  <text x="430" y="586" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="18">screenshots, diagrams, notes, public-safe stories</text>
+  <rect x="664" y="514" width="248" height="96" rx="18" fill="#13233B"/>
+  <text x="694" y="554" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Showcase repos</text>
+  <text x="694" y="586" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="18">case studies that prove workflow depth publicly</text>
+  <rect x="958" y="514" width="228" height="96" rx="18" fill="#13233B"/>
+  <text x="988" y="554" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Portfolio + README</text>
+  <text x="988" y="586" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="18">fast recruiter path to the strongest proof</text>
+
+  <defs>
+    <linearGradient id="bg" x1="56" y1="56" x2="1220" y2="664" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1730"/>
+      <stop offset="1" stop-color="#0A1325"/>
+    </linearGradient>
+  </defs>
+</svg>
